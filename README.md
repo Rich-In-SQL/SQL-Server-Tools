@@ -36,3 +36,5 @@ If you want to move the tempdb MDF & LDF files, this T-SQL script will help you 
 ### SQL Server Date Functions ###
 
 Manipulating SQL Server dates is the one thing I find myself heading to google for the most, this is a collection of date manipulation examples.
+
+This script is supported by a [blog post](https://www.codenameowl.com/dates/)
