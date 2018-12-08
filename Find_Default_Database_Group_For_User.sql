@@ -1,0 +1,1 @@
+SELECT name,default_database_name FROM sys.server_principals WHERE [type] <> 'R' 
